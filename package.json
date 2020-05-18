@@ -1,0 +1,31 @@
+{
+  "name": "react-material-ui-country-picker",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "dependencies": {
+    "react": "^16.8.0",
+    "webpack": "^4.35.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "adrien becker",
+    "email": "adrien.becker@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
