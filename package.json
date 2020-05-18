@@ -2,7 +2,7 @@
   "name": "react-material-ui-country-picker",
   "version": "1.0.0",
   "license": "MIT",
-  "main": "lib/index.js",
+  "main": "build/index.js",
   "peerDependencies": {
     "react": "^16.8.0"
   },
