@@ -1,7 +1,7 @@
 import React from 'react';
 import countries from './countries';
 
-const ReactFlagsSelect = (props) => {
+const CountryPicker = (props) => {
 	console.log(props, countries)
 	return (
 		<div>
@@ -10,4 +10,4 @@ const ReactFlagsSelect = (props) => {
 	)
 }
 
-export default ReactFlagsSelect;
+export default CountryPicker;
